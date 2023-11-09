@@ -423,6 +423,7 @@ body{
   }
   .profile{
     width: 80%;
+    flex-wrap: wrap;
   }
   .hero{
     height: max-content;
